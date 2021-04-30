@@ -76,6 +76,7 @@
 @media (max-width: 855px) {
   .top-images__box {
     width: 300px;
+  display: none;
   }
   .top-images__circle {
     width: 160px;
